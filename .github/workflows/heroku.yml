@@ -1,3 +1,4 @@
+name: heroku
 setup:
   addons:
     - plan: heroku-postgresql
